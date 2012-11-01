@@ -1,0 +1,10 @@
+#eventList article {
+	margin: 0 0 5px 0;
+}
+	#eventList article .event-title {
+		font-weight: normal;
+		margin: 0 0 2px 0;
+	}
+		#eventList article .event-title a {
+			font-size: 1em;
+		}

@@ -1,0 +1,15 @@
+{
+	"name": "Events",
+	"description": "Event Manager",
+
+	"author": "Ivan Mattoni",
+	"authorEmail": "iwmattoni@gmail.com",
+	"authorUrl": "https://github.com/geoneo/EventManager",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
